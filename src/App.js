@@ -11,7 +11,7 @@ const App = () => {
         <AppContext.Provider value={{theme}}>
             <Form />
         </AppContext.Provider>
-        // implement a button which toggles the theme
+        // implement a button which allows the user to select the theme
     )
 }
 
